@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nix24
-- 👀 I’m interested in learning more about software development as whole and looking for others to learn from
-- 🌱 I’m currently learning Software Development, Mostly with Java for now
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta: Jay_pheonix LinkedIn: Jaylon Carrington
+- Hi, I’m @nix24, you call call me Jaylon
+- I’m interested in learning more about software development as whole. My projects are a mix of class projects and personal projects.
+- I’m currently learning Software Development, I haved used Java in the past and currently I am learning:
+- Web dev(Javascript,HTML,CSS), Database(Mysql) and Python
+-How to reach me insta: Jay_pheonix LinkedIn: Jaylon Carrington
 
 <!---
 nix24/nix24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
